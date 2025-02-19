@@ -5,28 +5,28 @@ Welcome to the online materials for Computational Modelling of Social Systems. I
 
 ## Who am I?
 
-Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modelling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with Pavle Savković, the student tutor for the course as well as Jaramillo Mejia, Ana Maria. Several people have contributed to the materials of this course over time, especially [Dr. Petar Jerčić](http://www.petarjercic.com/), [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
+Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modelling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with Pavle Savković as well as Jaramillo Mejia, Ana Maria. Several people have contributed to the materials of this course over time, especially [Dr. Petar Jerčić](http://www.petarjercic.com/), [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
 
 ## Course Contents
 The course is organized in 11 lectures, one final project Q&A session plus one session for poster presentations.
 
 Apart from the lectures, in the first 2 weeks you have tutorial sessions with student tutor, where he will introduce you to Agent Based Modelling in Python using Mesa library. 
 
-1. [**Basics of agent-based modelling**]() [[Slides]]()  (05.03.2024)
+1. [**Basics of agent-based modelling**]() [[Slides]]()  (05.03.2025)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 1)**]()
 
-2. [**Modelling segregation: Schelling's mode**l]() [[Slides]]() (12.03.2024)
+2. [**Modeling segregation: Schelling's mode**l]() [[Slides]]() (12.03.2025)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 2)**]()
 
-3. [**Modelling cultures** - Jaramillo Mejia, Ana Maria ]() [[Slides]]() (19.03.2024)
+3. [**Modeling cultures** - Jaramillo Mejia, Ana Maria ]() [[Slides]]() (19.03.2025)
 
-4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.04.2024)
+4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.04.2025)
 
-5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (02.04.2024)
+5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (02.04.2025)
 
-6. [**Information spreading dynamics** - online lecture by Jana Lasser]() [[Slides]]()  (09.04.2024) 
+6. [**Information spreading dynamics** - online lecture by Jana Lasser]() [[Slides]]()  (09.04.2025) 
 
-7. TBD (30.04.2024) 
+7. TBD (30.04.2025) 
 
 8. [**Basic network models** - Samuel/Jaramillo Mejia, Ana Maria]() [[Slides]]()  (07.05.2025)
 
@@ -36,7 +36,7 @@ Apart from the lectures, in the first 2 weeks you have tutorial sessions with st
 
 11. [**Game-theoretic models I (agency, simple models)** - Matthias Raddant]()  [[Slides]]()  (04.06.2025)
 
-12. [**Game-theoretic models II (complex games and on networks)** - Matthias Raddant]()  [[Slides]]()  (11.06.2025)
+12. [**Game-theoretic models II (complex games on networks)** - Matthias Raddant]()  [[Slides]]()  (11.06.2025)
 
 
 ### Final Project:
@@ -44,7 +44,7 @@ Apart from the lectures, in the first 2 weeks you have tutorial sessions with st
 13. **Poster presentation** (25.06.2025)
 - Four hours session with food and drinks provided in the break after two hours
 
-14. The deadline to submit your **final report** is (09.07.2025). You can submit over Teach Center. [projects guide]()
+14. The deadline to submit your **final report** (09.07.2025). You can submit over Teach Center. [projects guide]()
 
 ## Where to access materials
 
@@ -72,14 +72,14 @@ Everything needs to be submitted on Teach Center by the deadline (end of day in 
 ## Graded exercizes information
 
 
-We have decided to restructure format compared to the previous years. Exercises had become somewhat outdated and were widely circulated among students from previous years, making it easier for new students to find solutions and complete the tasks with minimal effort.
+We have restructured the format compared to previous years format compared to the previous years. Exercises had become somewhat outdated and were widely circulated among students from previous years, making it easier for new students to find solutions and complete the tasks with minimal effort.
 
-This year, for the graded assignments, you will be required to reproduce specific figures from the provided research papers. There are 10 papers in total for you to choose from, and you must select one for each of the two assignments.
+This year, graded assignments will involve reproducing specific figures from provided research papers. There are 10 papers in total for you to choose from, and you must select one for each of the two assignments.
 
 Your submissions should be in .ipynb (Jupyter Notebook) format and should follow the structure of previous years’ notebooks, which you can find in the GitHub repository under the folder "Last_year_exercises." Your notebooks should include markdown cells with textual explanations of your approach, followed by code cells implementing the necessary steps. 
 
-Each of the four past exercises in this folder has two versions:
-  - A version without a solution, where you will need to write the code yourself (similar to the Foundations of Computational Social Systems course).
+Each of the four exercises in this folder has two versions:
+  - A version without a solution, where curious students can write the code yourself (similar to the Foundations of Computational Social Systems course).
   - A complete solution, which you can run to see the results.
     
 You are required to go through these notebooks to familiarize yourself with Agent-Based Modeling (ABM). This will provide valuable context and enhance your understanding of the techniques used. This is a great opportunity to deepen your understanding of Agent-Based Modeling, and I’m sure you will enjoy the process.
