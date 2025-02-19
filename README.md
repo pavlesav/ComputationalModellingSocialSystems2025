@@ -40,7 +40,7 @@ The course is organized in 11 lectures, one final project Q&A session plus one s
 
 ### Final Project:
 
-14. **Poster presentation** [[Agenda]](25.06.2025)
+14. **Poster presentation** (25.06.2025)
 - Four hours session
 
 15. **The deadline to submit your final report is TBD (Early July). You can submit over Teach Center. [projects guide]()**
