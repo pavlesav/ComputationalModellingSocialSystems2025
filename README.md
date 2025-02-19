@@ -1,99 +1,72 @@
 # Computational Modelling of Social Systems
-[Fariba Karimi](https://networkinequality.com/), 2024
+[Fariba Karimi](https://networkinequality.com/), 2025
 
 Welcome to the online materials for Computational Modelling of Social Systems. In this course, you will learn how to formulate and analyze computational models of social systems, in particular to study social interaction and the behavior of large groups of people and whole societiess. The course integrates content about social dynamics and analytic tools to understand the complex behavior of social systems. After this course, you will acquire programming skills to implement, simulate, and visualize these models.
 
 ## Who am I?
 
-Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modelling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with [Dr. Petar Jerčić](http://www.petarjercic.com/), a postdoctoral researcher in the Computational Social Science Lab and Pavle Savković, the student tutor for the course. Several people have contributed to the materials of this course over time, especially [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
+Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modelling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with Pavle Savković, the student tutor for the course as well as Ana(Fariba help me fill this). Several people have contributed to the materials of this course over time, especially [Dr. Petar Jerčić](http://www.petarjercic.com/), [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
 
 ## Course Contents
-The course is organized in 12 lectures grouped together in 4 blocks, one final project Q&A session plus two sessions for project presentations. The course contains lectures and exercises in python to apply what you learned in the lecture. The online materials do not contain the solutions to the exercises, but if you are stuck or want to start from an easier point, in the github folder of the exercise you can find a version of the exercise with hints. We will add links to materials and readings a few days before each session.
+The course is organized in 11 lectures, one final project Q&A session plus one session for project presentations. The course contains lectures and exercises in python to apply what you learned in the lecture. You also have 2 graded assignments where you would need to reproduce figures from famouns papers in this field.
 
-### Block 1: Fundamentals of agent-based modelling
+1. [**Basics of agent-based modelling** - Karimi Fariba]() [[Slides]]()  (05.03.2024)
+- [**Tutorial: ABM in Python, Mesa library (session 1)**]()
 
-*(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.)* The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.
+2. [**Modelling segregation: Schelling's mode**l - Karimi Fariba]() [[Slides]]() (12.03.2024)
+- [**Tutorial: ABM in Python, Mesa library (session 2)**]()
 
-1. [**Basics of agent-based modelling** - Karimi Fariba]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/ABM_basics_W1.pdf)  (06.03.2024)
-- No exercize session, organisation talk after the lecture  
+3. [**Modelling cultures** - Jerčić Petar]() [[Slides]]() (19.03.2024)
 
-2. [**Modelling segregation: Schelling's mode**l - Karimi Fariba]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Segregation_W2.pdf) (13.03.2024)
-- [**Tutorial: Python and Pandas introduction (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Tutorial_files/Exercise_Tutorial.md)
+4. [**Basics of spreading: Granovetter's threshold model** - Karimi Fariba]() [[Slides]]()  (26.04.2024)
 
-3. [**Modelling cultures** - Jerčić Petar]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Culture_W3/Slides.html) (20.03.2024)
-- [**Tutorial: ABM basics in Python with Mesa (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Tutorial_files/Exercise_Tutorial.md)
+5. [**Opinion dynamics, complex contagion** - Karimi Fariba]() [[Slides]]()  (02.04.2024)
 
-- *No class on 27.03.2024 and 03.04.2024: Easter holidays*
+6. [**Information spreading dynamics** - guest lecture Jana Lasser]() [[Slides]]()  (09.04.2024) 
 
-### Block 2: Opinion dynamics
+7. TBD (30.04.2024) 
 
-4. [**Basics of spreading: Granovetter's threshold model** - Karimi Fariba]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Spreading_W4.pdf)  (10.04.2024)
-- [**Exercise 1: Schelling's model and Pandas (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/tree/main/Exercise_1)
+8. [**Basic network models** - Samuel/Ana ]() [[Slides]]()  (07.05.2025)
 
-5. [**Opinion dynamics, complex contagion** - Karimi Fariba]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Spreading_W5.pdf)  (19.04.2024)
-- [**Exercise 1: Schelling's model and Pandas (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/tree/main/Exercise_1) (17.04.2024)
+9. [**Modelling small worlds and scale-free networks(combined lecture)** - Karimi Fariba]() [[Slides1]]() [[Slides2]]() (14.05.2025)  
 
-### Block 3: Network formation
+10. [**Project guidance - 30 minutes** - Ana]() [[Project guidance slides]]()  (28.05.2025)
 
-6. [**Disease spreading dynamics** - guest lecture Jana Lasser]() [[Slides]](https://janalasser.at/lectures/modelling_disease_spreading_dynamics/)  (24.04.2024) 
-- [**Exercise 2: Threshold models (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_2)
+11. [**Game-theoretic models I (agency, simple models)** - Matthias Raddant]()  [[Slides]]()  (04.06.2025)
 
-- *No class on 01.05.2022: Labour day*
+12. [**Game-theoretic models II (complex games and on networks)** - Matthias Raddant]()  [[Slides]]()  (11.06.2025)
 
-7. [**Basic network models** - Raddant Matthias]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/NetworkModels_W7/Slides.html)  (08.05.2024)
-- [**Exercise 2: Threshold models (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_2)
+13. [**Group work for Final Project; no lecture**] (18.06.2025)
 
-8. [**Modelling small worlds and scale-free networks** - Karimi Fariba]() [[Slides1]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/SmallWorlds_W8.pdf) [[Slides2]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Scale-FreeNetworks_W8.pdf) (15.05.2024)  
-- [**Exercise 3: Bounded confidence**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_3)
+### Final Project:
 
-9. [**Project guidance - first session**](https://pjercic.github.io/ComputationalModellingSocialSystems2024/) [[Project guidance slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/ProjectGuide/Slides.html)  (22.05.2024)
-- [**Exercise 3: Bounded confidence**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_3) 
+14. **Poster presentation** [[Agenda]](25.06.2025)
+- Four hours session
 
-### Block 4: Behavior on networks
-
-10. [**Epidemics and Cascades** -  Matthias Raddant]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Epidemics_Cascades_W10.pdf)  (29.05.2024)
-- [**Exercise 4: Scale-free networks and visualization**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_4)
-
-11. [**Game-theoretic models (complex games and on networks)** - Matthias Raddant]()  [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/GameTheorericModels_W11.pdf)  (05.06.2024)
-- [**Exercise 4: Scale-free networks and visualization**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_4)
-
-12. [**Project guidance - second session**]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/ProjectGuide/Slides.html)  (12.06.2024)
-
-### Project presentations:
-
-13. **Project presentations Day 1** [[Agenda]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/final_project_agenda.pdf) (19.06.2024)
-- Make sure your whole group is available between 15:00 and 19:00
-
-14. **Project presentations Day 2** [[Agenda]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/final_project_agenda.pdf) (26.06.2024)
-- Make sure your whole group is available between 15:00 and 19:00
-- **The deadline to submit your final report is July 10th (end of day). You can submit over Teach Center. [projects guide](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ProjectGuide/ProjectsGuide.md)**
+15. **The deadline to submit your final report is TBD (Early July). You can submit over Teach Center. [projects guide]()**
 
 ## Where to access materials
 
-- Reading lists, codes, and data can be found on the [Github repository of the course](https://github.com/pjercic/ComputationalModellingSocialSystems2024).
-- Students at TU Graz can access the [course at Teach Center](https://tc.tugraz.at/main/enrol/index.php?id=4384) to get additional information, watch videos, and to participate in the forums.
-- Most of the communication will happen on [discord](https://discord.gg/9WhRWYQG), here you can ask questions where we will respond in the shortest time period
-
+- Students at TU Graz can access the [course at Teach Center](https://tc.tugraz.at/main/course/view.php?id=4384) to get additional information, watch videos from previous years on Tube, and to participate in the forums.
+- Most of the communication will happen on [discord](https://discord.gg/9rYVEvzqNe), here you can ask questions where we will respond in the shortest time period.
 
 ## Place and time
 
-The course takes place on Wednesdays at 15:00 (sharp), lasts 2 hours, with a **exercise session following the lecture**. Exercise session starts the same day at 18:00 and lasts 1 hour. The lecture part of the course will take place in room [HS A (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J) and exercise part will take place in room [HS E (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=3998&pActionFlag=A&pShowEinzelraum=J)
-
-If needed there will be an extra online exercise support group (decided later on). Check TeachCenter for the webex link.
-
+The course takes place on Wednesdays at 15:00 (sharp) and lasts 2 hours. The lecture part of the course will take place in room [HS A (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J) and exercise part will take place in room [HS E (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=3998&pActionFlag=A&pShowEinzelraum=J)
 
 ## Course grading
 
 The assessment for the course is based on four components:
 
-- Exercises done in groups of **one or two students**
-  - Exercise 1: ungraded
-  - Exercise 2: **25% of final grade**. Deadline: 14.05.2022 23:59
-  - Exercise 3: **25% of final grade**. Deadline: 28.05.2022 23:59
-  - Exercise 4: ungraded
+- Exercises are done in groups of **two students**
+  - Exercise 1: **25% of final grade**. Deadline: 14.05.2022 23:59
+  - Exercise 1: **25% of final grade**. Deadline: 28.05.2022 23:59
   
-- Final group project in groups of **up to four students**. Projects are linked to two evaluations:
-  - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
-  - Project report (include the implementation of behavior in your model - in math or code): **25% of final grade**
+- Final group project in groups of **four students**. Projects are linked to two evaluations:
+  - Participation in poster presentation sessions: **25% of final grade**
+  - Project final report (include the implementation of behavior in your model - in math or code): **25% of final grade**
 
-Graded exercises need to be submitted on teach center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.
+Graded exercises need to be submitted on Teach Center by the deadline (end of day in Graz time). 
+
+## Graded exercizes information
+
