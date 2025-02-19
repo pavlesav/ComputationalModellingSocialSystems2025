@@ -5,16 +5,16 @@ Welcome to the online materials for Computational Modelling of Social Systems. I
 
 ## Who am I?
 
-Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modelling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with Pavle Savković, the student tutor for the course as well as Ana(Fariba help me fill this). Several people have contributed to the materials of this course over time, especially [Dr. Petar Jerčić](http://www.petarjercic.com/), [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
+Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modelling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with Pavle Savković, the student tutor for the course as well as Jaramillo Mejia, Ana Maria(Fariba help me fill this). Several people have contributed to the materials of this course over time, especially [Dr. Petar Jerčić](http://www.petarjercic.com/), [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
 
 ## Course Contents
 The course is organized in 11 lectures, one final project Q&A session plus one session for project presentations. The course contains lectures and exercises in python to apply what you learned in the lecture. You also have 2 graded assignments where you would need to reproduce figures from famouns papers in this field.
 
 1. [**Basics of agent-based modelling** - Karimi Fariba]() [[Slides]]()  (05.03.2024)
-- [**Tutorial: ABM in Python, Mesa library (session 1)**]()
+- [**Tutorial: ABM in Python, introduction to Mesa library (session 1)**]()
 
 2. [**Modelling segregation: Schelling's mode**l - Karimi Fariba]() [[Slides]]() (12.03.2024)
-- [**Tutorial: ABM in Python, Mesa library (session 2)**]()
+- [**Tutorial: ABM in Python, introduction to Mesa library (session 2)**]()
 
 3. [**Modelling cultures** - Jerčić Petar]() [[Slides]]() (19.03.2024)
 
@@ -26,11 +26,11 @@ The course is organized in 11 lectures, one final project Q&A session plus one s
 
 7. TBD (30.04.2024) 
 
-8. [**Basic network models** - Samuel/Ana ]() [[Slides]]()  (07.05.2025)
+8. [**Basic network models** - Samuel/Jaramillo Mejia, Ana Maria]() [[Slides]]()  (07.05.2025)
 
 9. [**Modelling small worlds and scale-free networks(combined lecture)** - Karimi Fariba]() [[Slides1]]() [[Slides2]]() (14.05.2025)  
 
-10. [**Project guidance - 30 minutes** - Ana]() [[Project guidance slides]]()  (28.05.2025)
+10. [**Project guidance - 30 minutes** - Jaramillo Mejia, Ana Maria]() [[Project guidance slides]]()  (28.05.2025)
 
 11. [**Game-theoretic models I (agency, simple models)** - Matthias Raddant]()  [[Slides]]()  (04.06.2025)
 
@@ -52,7 +52,7 @@ The course is organized in 11 lectures, one final project Q&A session plus one s
 
 ## Place and time
 
-The course takes place on Wednesdays at 15:00 (sharp) and lasts 2 hours. The lecture part of the course will take place in room [HS A (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J) and exercise part will take place in room [HS E (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=3998&pActionFlag=A&pShowEinzelraum=J)
+The course takes place on Wednesdays at 15:00 (sharp) and lasts 2 hours. The lecture part of the course will take place in room [HS A (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/ris.einzelRaum?raumKey=4010) and exercise part will take place in room [HS E (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/ris.einzelRaum?raumKey=3998)
 
 ## Course grading
 
@@ -62,7 +62,7 @@ The assessment for the course is based on four components:
   - Exercise 1: **25% of final grade**. Deadline: 14.05.2022 23:59
   - Exercise 1: **25% of final grade**. Deadline: 28.05.2022 23:59
   
-- Final group project in groups of **four students**. Projects are linked to two evaluations:
+- Final group project is done in groups of **four students**. Projects are linked to two evaluations:
   - Participation in poster presentation sessions: **25% of final grade**
   - Project final report (include the implementation of behavior in your model - in math or code): **25% of final grade**
 
