@@ -36,14 +36,13 @@ The course is organized in 11 lectures, one final project Q&A session plus one s
 
 12. [**Game-theoretic models II (complex games and on networks)** - Matthias Raddant]()  [[Slides]]()  (11.06.2025)
 
-13. [**Group work for Final Project; no lecture**] (18.06.2025)
 
 ### Final Project:
 
-14. **Poster presentation** (25.06.2025)
+13. **Poster presentation** (25.06.2025)
 - Four hours session
 
-15. **The deadline to submit your final report is TBD (Early July). You can submit over Teach Center. [projects guide]()**
+14. **The deadline to submit your final report is TBD (Early July). You can submit over Teach Center. [projects guide]()**
 
 ## Where to access materials
 
