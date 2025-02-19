@@ -5,30 +5,32 @@ Welcome to the online materials for Computational Modelling of Social Systems. I
 
 ## Who am I?
 
-Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modelling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with Pavle Savković, the student tutor for the course as well as Jaramillo Mejia, Ana Maria(Fariba help me fill this). Several people have contributed to the materials of this course over time, especially [Dr. Petar Jerčić](http://www.petarjercic.com/), [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
+Fariba Karimi is the Professor for Computational Behavioral and Social Sciences the Graz University of Technology. Fariba Karimi leads the Complexity Science Hub’s computational social science team. Fariba received a PhD in physics and computational science from Umea University, in Sweden, in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences, in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modelling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems. In 2023, she received the Young Scientist Award from the German Physical Society for her research on inequality in complex networks. Since January 2023, Fariba has also been an assistant professor at TU Wien. I teach this course in collaboration with Pavle Savković, the student tutor for the course as well as Jaramillo Mejia, Ana Maria. Several people have contributed to the materials of this course over time, especially [Dr. Petar Jerčić](http://www.petarjercic.com/), [Dr. Jana Lasser](https://janalasser.at/) and [Dr. Max Pellert](https://mpellert.at/).
 
 ## Course Contents
-The course is organized in 11 lectures, one final project Q&A session plus one session for project presentations. The course contains lectures and exercises in python to apply what you learned in the lecture. You also have 2 graded assignments where you would need to reproduce figures from famouns papers in this field.
+The course is organized in 11 lectures, one final project Q&A session plus one session for poster presentations.
 
-1. [**Basics of agent-based modelling** - Karimi Fariba]() [[Slides]]()  (05.03.2024)
+Apart from the lectures, in the first 2 weeks you have tutorial sessions with student tutor, where he will introduce you to Agent Based Modelling in Python using Mesa library. 
+
+1. [**Basics of agent-based modelling**]() [[Slides]]()  (05.03.2024)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 1)**]()
 
-2. [**Modelling segregation: Schelling's mode**l - Karimi Fariba]() [[Slides]]() (12.03.2024)
+2. [**Modelling segregation: Schelling's mode**l]() [[Slides]]() (12.03.2024)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 2)**]()
 
-3. [**Modelling cultures** - Jerčić Petar]() [[Slides]]() (19.03.2024)
+3. [**Modelling cultures** - Jaramillo Mejia, Ana Maria ]() [[Slides]]() (19.03.2024)
 
-4. [**Basics of spreading: Granovetter's threshold model** - Karimi Fariba]() [[Slides]]()  (26.04.2024)
+4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.04.2024)
 
-5. [**Opinion dynamics, complex contagion** - Karimi Fariba]() [[Slides]]()  (02.04.2024)
+5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (02.04.2024)
 
-6. [**Information spreading dynamics** - guest lecture Jana Lasser]() [[Slides]]()  (09.04.2024) 
+6. [**Information spreading dynamics** - online lecture by Jana Lasser]() [[Slides]]()  (09.04.2024) 
 
 7. TBD (30.04.2024) 
 
 8. [**Basic network models** - Samuel/Jaramillo Mejia, Ana Maria]() [[Slides]]()  (07.05.2025)
 
-9. [**Modelling small worlds and scale-free networks(combined lecture)** - Karimi Fariba]() [[Slides1]]() [[Slides2]]() (14.05.2025)  
+9. [**Modelling small worlds and scale-free networks(combined lecture)**]() [[Slides1]]() [[Slides2]]() (14.05.2025)  
 
 10. [**Project guidance - 30 minutes** - Jaramillo Mejia, Ana Maria]() [[Project guidance slides]]()  (28.05.2025)
 
@@ -40,9 +42,9 @@ The course is organized in 11 lectures, one final project Q&A session plus one s
 ### Final Project:
 
 13. **Poster presentation** (25.06.2025)
-- Four hours session
+- Four hours session with food and drinks provided in the break after two hours
 
-14. **The deadline to submit your final report is TBD (Early July). You can submit over Teach Center. [projects guide]()**
+14. The deadline to submit your **final report** is (09.07.2025). You can submit over Teach Center. [projects guide]()
 
 ## Where to access materials
 
@@ -58,14 +60,34 @@ The course takes place on Wednesdays at 15:00 (sharp) and lasts 2 hours. The lec
 The assessment for the course is based on four components:
 
 - Exercises are done in groups of **two students**
-  - Exercise 1: **25% of final grade**. Deadline: 14.05.2022 23:59
-  - Exercise 1: **25% of final grade**. Deadline: 28.05.2022 23:59
+  - Exercise 1: **25% of final grade**. Deadline: 13.04.2022 23:59
+  - Exercise 2: **25% of final grade**. Deadline: 18.05.2022 23:59
   
 - Final group project is done in groups of **four students**. Projects are linked to two evaluations:
-  - Participation in poster presentation sessions: **25% of final grade**
-  - Project final report (include the implementation of behavior in your model - in math or code): **25% of final grade**
-
-Graded exercises need to be submitted on Teach Center by the deadline (end of day in Graz time). 
+  - Participation in poster presentation session: **25% of final grade** Deadline: 24.06.2025
+  - Final report (include the implementation of behavior in your model - in math or code) **25% of final grade** Deadline: 09.07.2025
+    
+Everything needs to be submitted on Teach Center by the deadline (end of day in Graz time). 
 
 ## Graded exercizes information
 
+
+We have decided to restructure format compared to the previous years. Exercises had become somewhat outdated and were widely circulated among students from previous years, making it easier for new students to find solutions and complete the tasks with minimal effort.
+
+This year, for the graded assignments, you will be required to reproduce specific figures from the provided research papers. There are 10 papers in total for you to choose from, and you must select one for each of the two assignments.
+
+Your submissions should be in .ipynb (Jupyter Notebook) format and should follow the structure of previous years’ notebooks, which you can find in the GitHub repository under the folder "Last_year_exercises." Your notebooks should include markdown cells with textual explanations of your approach, followed by code cells implementing the necessary steps. 
+
+Each of the four past exercises in this folder has two versions:
+  - A version without a solution, where you will need to write the code yourself (similar to the Foundations of Computational Social Systems course).
+  - A complete solution, which you can run to see the results.
+    
+You are required to go through these notebooks to familiarize yourself with Agent-Based Modeling (ABM). This will provide valuable context and enhance your understanding of the techniques used. This is a great opportunity to deepen your understanding of Agent-Based Modeling, and I’m sure you will enjoy the process.
+
+Many of the assigned papers have online resources available, such as tutorials and code explanations on platforms like YouTube or existing GitHub repositories. You are encouraged to use these as learning tools, but you must properly cite any external resources by linking them in your notebook. Simply copying and pasting code from an online source is not acceptable—you should retype, adapt, and engage with the code as a learning experience.
+
+Additionally, you must contribute something new and unique beyond simply reproducing the figure. This could be:
+
+  - A new visualization
+  - An alternative perspective on the subject
+  - Additional graphs or plots that provide further insight
