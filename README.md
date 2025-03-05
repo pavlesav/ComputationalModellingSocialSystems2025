@@ -16,10 +16,10 @@ Apart from the lectures, in the first 2 weeks you have tutorial sessions with st
 
 
 2. [**Modeling segregation: Schelling's mode**l]() [[Slides]]() (12.03.2025)
-- [**Tutorial: ABM in Python, introduction to Mesa library (session 1)**]()
+- [**Tutorial: ABM in Python, introduction to Mesa library (session 1)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
 3. [**Modeling cultures** - Jaramillo Mejia, Ana Maria ]() [[Slides]]() (19.03.2025)
-- [**Tutorial: ABM in Python, introduction to Mesa library (session 2)**]()
+- [**Tutorial: ABM in Python, introduction to Mesa library (session 2)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
 4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.03.2025)
 - [**Tutorial: Let's build an example model together**]()
