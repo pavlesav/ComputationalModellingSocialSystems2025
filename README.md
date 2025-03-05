@@ -62,8 +62,8 @@ The course takes place on Wednesdays at 15:00 (sharp) and lasts 2 hours. The lec
 The assessment for the course is based on four components:
 
 - Exercises are done in groups of **two students**
-  - Exercise 1: **25% of final grade**. Deadline: 13.04.2025 23:59
-  - Exercise 2: **25% of final grade**. Deadline: 18.05.2025 23:59
+  - Exercise 1: **25% of final grade**. Deadline: 17.04.2025 23:59
+  - Exercise 2: **25% of final grade**. Deadline: 25.05.2025 23:59
   
 - Final group project is done in groups of **four students**. Projects are linked to two evaluations:
   - Participation in poster presentation session: **25% of final grade** Deadline: 24.06.2025
@@ -90,6 +90,8 @@ Many of the assigned papers have online resources available, such as tutorials a
 
 Additionally, you must contribute something new and unique beyond simply reproducing the figure. This could be:
 
+  - Modify the original model and discuss the changes
+  - Test the model with new parameters and observe changes
   - A new visualization
   - An alternative perspective on the subject
   - Additional graphs or plots that provide further insight
