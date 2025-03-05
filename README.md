@@ -10,7 +10,7 @@ Fariba Karimi is the Professor for Computational Behavioral and Social Sciences 
 ## Course Contents
 The course is organized in 11 lectures, one final project Q&A session plus one session for poster presentations.
 
-Apart from the lectures, in the first 2 weeks you have tutorial sessions with student tutor, where he will introduce you to Agent Based Modelling in Python using Mesa library. 
+Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with student tutor, where he will introduce you to Agent Based Modelling in Python using Mesa library. 
 
 1. [**Basics of agent-based modelling**]() [[Slides]]()  (05.03.2025)
 
