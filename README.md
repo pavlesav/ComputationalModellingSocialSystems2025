@@ -21,7 +21,8 @@ Apart from the lectures, in the first 2 weeks you have tutorial sessions with st
 3. [**Modeling cultures** - Jaramillo Mejia, Ana Maria ]() [[Slides]]() (19.03.2025)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 2)**]()
 
-4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.04.2025)
+4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.03.2025)
+- [**Tutorial: Let's build an example model together**]()
 
 5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (02.04.2025)
 
