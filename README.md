@@ -83,9 +83,9 @@ Each of the four exercises in this folder has two versions:
   - A version without a solution, where curious students can write the code yourself (similar to the Foundations of Computational Social Systems course).
   - A complete solution, which you can run to see the results.
     
-You are required to go through these notebooks to familiarize yourself with Agent-Based Modeling (ABM). This will provide valuable context and enhance your understanding of the techniques used. This is a great opportunity to deepen your understanding of Agent-Based Modeling, and I’m sure you will enjoy the process.
+You are recommended to go through these notebooks to familiarize yourself with Agent-Based Modeling (ABM). This will provide valuable context and enhance your understanding of the techniques used. This is a great opportunity to deepen your understanding of Agent-Based Modeling, and I’m sure you will enjoy the process.
 
-Many of the assigned papers have online resources available, such as tutorials and code explanations on platforms like YouTube or existing GitHub repositories. You are encouraged to use these as learning tools, but you must properly cite any external resources by linking them in your notebook. Simply copying and pasting code from an online source is not acceptable—you should retype, adapt, and engage with the code as a learning experience.
+Many of the assigned papers have online resources available, such as tutorials and code explanations on platforms like YouTube or existing GitHub repositories. You are encouraged to use these as learning tools, but you must properly cite any external resources by linking them in your notebook. Simply copying and pasting code from an online source is not acceptable—you should retype, adapt, and engage with the code as a learning experience. Your code should be compatible with the most recent Mesa update, that will be one way for us to check if you\ve done the work or just copied old, outdated code (anything older than a year is not compatible). 
 
 Additionally, you must contribute something new and unique beyond simply reproducing the figure. This could be:
 
