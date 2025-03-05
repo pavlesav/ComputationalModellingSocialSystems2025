@@ -12,8 +12,7 @@ The course is organized in 11 lectures, one final project Q&A session plus one s
 
 Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with student tutor, where he will introduce you to Agent Based Modelling in Python using Mesa library. 
 
-1. [**Basics of agent-based modelling**]() [[Slides]]()  (05.03.2025)
-
+1. [**Basics of agent-based modelling**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week1.pptx)  (05.03.2025)
 
 2. [**Modeling segregation: Schelling's mode**l]() [[Slides]]() (12.03.2025)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 1)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
