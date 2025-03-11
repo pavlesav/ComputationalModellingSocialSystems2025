@@ -14,10 +14,10 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 
 1. [**Basics of agent-based modelling**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week1.pptx)  (05.03.2025)
 
-2. [**Modeling segregation: Schelling's mode**l]() [[Slides]]() (12.03.2025)
+2. [**Modeling segregation: Schelling's mode**l]-Jaramillo Mejia, Ana Maria() [[Slides]]() (12.03.2025)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 1)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
-3. [**Modeling cultures** - Jaramillo Mejia, Ana Maria ]() [[Slides]]() (19.03.2025)
+3. [**Modeling cultures** - Martin-Gutierrez, Samuel]() [[Slides]]() (19.03.2025)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 2)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
 4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.03.2025)
@@ -29,7 +29,7 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 
 7. TBD (30.04.2025) 
 
-8. [**Basic network models** - Samuel/Jaramillo Mejia, Ana Maria]() [[Slides]]()  (07.05.2025)
+8. [**Basic network models** - Jaramillo Mejia, Ana Maria]() [[Slides]]()  (07.05.2025)
 
 9. [**Modelling small worlds and scale-free networks(combined lecture)**]() [[Slides1]]() [[Slides2]]() (14.05.2025)  
 
