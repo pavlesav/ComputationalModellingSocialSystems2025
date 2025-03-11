@@ -94,3 +94,5 @@ Additionally, you must contribute something new and unique beyond simply reprodu
   - A new visualization
   - An alternative perspective on the subject
   - Additional graphs or plots that provide further insight
+
+The link to the papers can be found [here](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Replicating%20papers%20as%20assignments.xlsx)
