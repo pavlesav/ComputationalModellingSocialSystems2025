@@ -14,7 +14,7 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 
 1. [**Basics of agent-based modelling**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week1.pptx)  (05.03.2025)
 
-2. [**Modeling segregation: Schelling's model-Jaramillo Mejia, Ana Maria**]() [[Slides]]() (12.03.2025)
+2. [**Modeling segregation: Schelling's model-Jaramillo Mejia, Ana Maria**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week2.pptx) (12.03.2025)
 - [**Tutorial: ABM in Python, introduction to Mesa library (session 1)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
 3. [**Modeling cultures** - Martin-Gutierrez, Samuel]() [[Slides]]() (19.03.2025)
