@@ -61,7 +61,7 @@ The course takes place on Wednesdays at 15:00 (sharp) and lasts 2 hours. The lec
 The assessment for the course is based on four components:
 
 - Exercises are done in groups of **two students**
-  - Exercise 1: **25% of final grade**. Deadline: 17.04.2025 23:59
+  - Exercise 1: **25% of final grade**. Deadline: 27.04.2025 23:59
   - Exercise 2: **25% of final grade**. Deadline: 25.05.2025 23:59
   
 - Final group project is done in groups of **four students**. Projects are linked to two evaluations:
