@@ -26,7 +26,7 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 
 5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (02.04.2025)
 
-6. [**Information spreading dynamics** - online lecture by Jana Lasser]() [[Slides]]()  (09.04.2025) 
+6. [**Information spreading dynamics** - online lecture by Jana Lasser <a href="[https://tugraz.webex.com/tugraz/j.php?MTID=m3a014a35fbfbac7846fee0ea252a47a0]">Link</a>]() [[Slides]]()  (09.04.2025) 
 
 7. TBD (30.04.2025) 
 
