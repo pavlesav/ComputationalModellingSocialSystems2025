@@ -18,15 +18,16 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 2. [**Modeling segregation: Schelling's model-Jaramillo Mejia, Ana Maria**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week2.pptx) (12.03.2025)
 - [**Tutorial 1: ABM in Python, introduction to Mesa library (session 1)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
-3. [**Modeling cultures** - Martin-Gutierrez, Samuel]() [[Slides]]() (19.03.2025)
+3. [**Modeling cultures** - Martin-Gutierrez, Samuel]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week3.pdf) (19.03.2025)
 - [**Tutorial 2: ABM in Python, introduction to Mesa library (session 2)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
-4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.03.2025)
+4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week4.pdf)  (26.03.2025)
 - [**Tutorial 3: Let's build an example model together**]()
 
-5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (02.04.2025)
+5. [**Opinion dynamics, complex contagion**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week5.pdf)  (02.04.2025)
 
 6. [**Information spreading dynamics** - online lecture by Jana Lasser]() [[Slides]]()  (09.04.2025) 
+- [**Exercise Feedback/Guidance session 1**]()
 
 7. TBD (30.04.2025) 
 
