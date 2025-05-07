@@ -31,7 +31,9 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 
 7. TBD (30.04.2025) 
 
-8. [**Basic network models** - Jaramillo Mejia, Ana Maria]() [[Slides]]()  (07.05.2025)
+8. [**Basic network models** - Jaramillo Mejia, Ana Maria]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/Week%208%20-%20Basic%20network%20models.pdf)[[Recording]](Webex meeting recording: Computational Modelling of Social Systems - 6 of May-20250506 1311-1
+Recording link: https://tugraz.webex.com/tugraz/ldr.php?RCID=0dc79bb72ba7f49f642018b1113a3962
+Password: PsQh8PME)  (06.05.2025)
 
 9. [**Modelling small worlds and scale-free networks(combined lecture)**]() [[Slides1]]() [[Slides2]]() (14.05.2025)  
 
