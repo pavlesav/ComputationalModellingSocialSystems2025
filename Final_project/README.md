@@ -30,7 +30,7 @@ For both options, your group should:
 
 ## Technical details:
 
-- **Printing and installing your poster**: You are responsible for handing in your poster, printing it, and installing it on the examination day. The format of your poster is **A0 format, 841 x 1190 mm**. One group member should send the poster in PDF format and in A0 format to Pavle Savkovic by **xx.06.2025: pavle.savkovic@student.tugraz.at**. **Any delay results in no print and a failure in the grade**. 
+- **Printing and installing your poster**: You are responsible for handing in your poster, printing it, and installing it on the examination day. The format of your poster is **A0 format, 841 x 1190 mm**. One group member should send the poster in PDF format and in A0 format to the STC link by **xx.06.2025**. **Any delay results in no print and a failure in the grade**. 
 
 - Every student has to attend **the poster presentation session**; each student will be a presenter in one round and a discussant in the other. 
 
@@ -57,7 +57,7 @@ For both options, your group should:
 The timeline of the project deadlines can be found below. The deadlines are up to the end of the day marked by each date.
 
 - **28.05.2024:** Project guidance with Ana.
-- **19.01.2025:** Deadline to submit pdf format of your A0 poster to Pavle Savkovic for print.
+- **19.01.2025:** Deadline to submit pdf format of your A0 poster to the platform.
 - **25.06.2025:** Poster presentations session day.
 - **09.07.2025:** Submission of the final written report.
 
