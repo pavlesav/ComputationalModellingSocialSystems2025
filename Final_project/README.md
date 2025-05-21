@@ -6,16 +6,16 @@
 ## Some basic information:
 
 **Option 1:**
-- Propose a **new project** with a topic related to computational modelling with an application that has not been part of the assignments.
+- Propose a **new project** with a topic related to computational modelling with an application that has not been part of the assignments. For example, combining two different models seen during the class, such as the group formation and the spreading model, where different rules are considered for the interaction of individuals (attributes of the individuals, homophily, size of the groups, number of simulations) and the spreading process (the probabilities/rules of getting in different contagious stages, time length of the contagion, multiple or single spreadings). 
   
-- Formulate a research question based on a literature review and identify the literature gap (for example, future work that has not been developed/published elsewhere).
+- Formulate a research question based on a small literature review on the chosen models (4-6 papers) and identify some literature gaps (for example, future work that has not been developed/published elsewhere or some theoretical models that can be applied to other contexts).
   
 - Implement a model with empirical data or simulations to solve/explore the research question.
 
 **Option 2:**
-- **Extension of the previous assignments**, but you must follow the scientific method practices for the final project. 
+- **Extension of the previous assignments** while following the scientific method practices for the final project. 
 
-- Formulate a research question based on a literature review and identify the literature gap (search for more recent work on the same topic and situate the gap that your project wants to fill, for example, future work that has not been developed/published elsewhere).  
+- Formulate a research question based on a small literature review (4-6 papers) and identify some literature gap (search for more recent work on the same topic and situate the gap that your project wants to fill, for example, future work that has not been developed/published elsewhere or applying the model to solve questions or understand other contexts).  
 
 - Based on the literature review, you should improve the model you previously developed during the assignment and make the necessary variations to make your project novel. 
 
@@ -23,18 +23,16 @@ ________________________________________________________________________________
 
 For both options, your group should:
 
-- Present a poster during the poster session in the **TBD from 15 to 18 on 25.06** to get your feedback. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
+- Present a poster during the poster session in the **HS FSI 1 "Magna Steyr Hörsaal" (FSEG054) from 15:30 to 18:30 on 25.06.25** to get your feedback. Each presentation will have a time limit of 10 minutes, followed by 10 minutes for discussion. Each student in the group has to participate in both their project presentation and their discussion round.
 
 - Write a final report following the scientific paper structure: Introduction, Methodology, Results, Discussion, Limitations, and Conclusions. **Incorporate the feedback received during the poster session**. Submit the final report by **July 9th**.
 
 
 ## Technical details:
 
-- **Printing and installing your poster**: You are responsible for handing in your poster, printing it, and installing it on the examination day. The format of your poster is **A0 format, 841 x 1190 mm**. One group member should send the poster in PDF format and in A0 format to the STC link by **xx.06.2025**. **Any delay results in no print and a failure in the grade**. 
+- **Printing and installing your poster**: You are responsible for handing in your poster, printing it, and installing it on the examination day. The format of your poster is **A1 format, 594 x 841 mm**. One group member should submit the poster in PDF format to the Teach Center in the **Final Project Poster** tab by **19.06.2025**. **Any delay results in no print and a failure in the grade**. 
 
-- Every student has to attend **the poster presentation session**; each student will be a presenter in one round and a discussant in the other. 
-
-- Discussants only need to pay attention to the poster presentation and ask questions or propose improvements afterwards.
+- Every student has to attend **the poster presentation session**; each student should be able to present their poster and can engage in the other posters as audience. 
 
 - You can get guidance for your projects in one session: **28.05.2025 15:00 to 18:00**. There are no lectures from 11.06.2025. 
 
@@ -53,11 +51,10 @@ For both options, your group should:
 
 
 
+Below is the timeline of the project deadlines. The deadlines are up to the end of the day marked by each date.
 
-The timeline of the project deadlines can be found below. The deadlines are up to the end of the day marked by each date.
-
-- **28.05.2024:** Project guidance with Ana.
-- **19.01.2025:** Deadline to submit pdf format of your A0 poster to the platform.
+- **28.05.2025:** Project guidance with Ana.
+- **19.06.2025:** Deadline to submit pdf format of your A1 poster to the platform.
 - **25.06.2025:** Poster presentations session day.
 - **09.07.2025:** Submission of the final written report.
 
@@ -75,13 +72,11 @@ During the poster presentation session, students give **10-minute** presentation
 
 Each poster must contain at least four blocks:
 
-0) Project title, names of group members
+0) Project title, names of group members, group number
 1) Research question and motivation
 2) Methods: used model an tunning parameters or empirical data sources
 3) Results
 4) Conclusion
-
-All group members have to participate in their presentation (for example, presenting one block each) and be present to reply to questions by the lecturers. It is important that you learn to synthesize and summarize the project. Please practice the presentation substantially because taking longer will affect the project grade.
 
 
 #### 4. Submit the final report
@@ -91,9 +86,9 @@ References do not count towards this 10-page limit. Projects can contain a link 
 
 Project reports should follow this structure:
 
-1. Introduction: Literature review and gap, research question, and how you plan to address the research question?
-2. Methodology: Description of the selected model, values of the parameters, and if applicable, data acquisition methods and statistcal characteristis. 
-5. Results: Perform statistical analyses and visualizations that assess the question(s), and analyses of the results.
+1. Introduction: Literature review and gap, research question, and how you plan to address the research question.
+2. Methodology: This includes a description of the selected model, parameter values, and, if applicable, data acquisition methods and statistical characteristics. 
+5. Results: Perform statistical analyses and visualizations that assess the question(s) and analyze the results.
 6. Discussion: Discussion of your results with the previous literature.
 7. Limitations: State limitations of your proyect and future work to asses them.
 8. Conclusion: Wrap up of the main results and the answer to your research question.
@@ -106,12 +101,6 @@ After your project presentations, we might suggest feedback on your current proj
 
 The grade for the project is composed of 50% for the poster presentation and 50% for the final report. Extra points are given when projects are based on open science principles (e.g. data and codes are available in a Github repository) and when data sources or methods go beyond what is covered in the course. **Projects do not need to report "positive results",** what is important is that you show how you have addressed your research questions, document any issues or deviations, and critically reflect on methods and results.
 
-## Examples of project topics
-
-#### Replicating a previous paper
-
-You can select a previous paper and take the same question and methods used in the paper. You don't need to do the exact same thing, but the question can be the same. For example, you can replicate a study about sentiment analysis or network analysis on Twitter but with Reddit data. In this case, it is important that you explain in your report the question and methods of the paper you replicate, how you have deviated from those, and how your results agree, disagree, or are inconclusive. Many papers share tweet ids or other kinds of ids for you to generate your own dataset in a similar way, we welcome that kind of replication but not replications based solely on the data shared by the authors of the original paper.
-
 
 ## Frequently asked questions
 - **Do I have to work in a group?**
@@ -119,18 +108,18 @@ Yes, individual projects are not allowed. You can use collaborative tools like G
 - **Do we need to start with a question?**
 Yes, and this question has to be relevant about human behavior. Remember that this course is not data-driven, so please do not start with a cool dataset and then see what to do with it. In general, good research questions can be answered with a yes/no answer or with a number. For example: "are emotional tweets retweeted more often?" or "is there a correlation between Twitter misspelling frequency and unemployment?". Questions that start with "how" or "what" are usually not good, like "how do people use TikTok?" or "what is Austria's favorite Pokemon?".
 - **Can we change the question or project topic?**
-Only before you present your project. Your project presentation has to include your question and you cannot change it afterwards. If you have problems regarding methods or data, you should document that in your project report, but not change the question because of that.
+Only before you present your project. Your project presentation has to include your question, and you cannot change it afterwards. If you have problems regarding methods or data, you should document that in your project report, but do not change the question because of that.
 - **What if some dataset or model turns out to work differently than we planned?**
-This can always happen and there is no problem with changing some plans about the data retrieval or analysis, as long as you document these well in your report and argue about the changes. What you cannot change is the question and motivation of your project or do arbitrary, unjustified changes to the plan.
+This can always happen, and there is no problem with changing some plans about the data retrieval or analysis, as long as you document these well in your report and argue about the changes. What you cannot change is the question and motivation of your project, or make arbitrary, unjustified changes to the plan.
 - **What if we don't get "nice" results or don't fit our expectations?**
-As long as you followed your plan, the particular results that you get will not factor into the grade. If you get a negative result or a surprising answer, comment on that in the conclusion section and reflect on it in your critique section. Follow our recommendations and feedback during the course and comment on them in your report if some reason you couldn't follow them.
+As long as you followed your plan, the particular results that you get will not factor into the grade. If you get a negative result or a surprising answer, comment on that in the conclusion section and reflect on it in your critique section. Follow our recommendations and feedback during the course, and comment on them in your report if, for some reason, you couldn't follow them.
 - **Do we have to use data in the project?**
-Not necessarily, this project can be simulation or data based. Critical discussions are welcome in the last part of the project and theoretical motivations in the first one, but make sure that your project has an empirical and quantitative core.
+Not necessarily, this project can be simulation or data-based. Critical discussions are welcome in the last part of the project and theoretical motivations in the first one, but ensure that your project has an empirical and quantitative core.
 - **Can we use a statistical method or model not covered by the course?**
-Yes, but make sure that you understand it well. Don't use a method just because someone told you to do so (for example on stack exchange) or because everyone in your field is using it, think critically and make sure that you don't just run some software and get a magical p-value or something like that. You should also briefly explain this method in your report, cite relevant references about it, and explain why you chose to use it.
+Yes, but make sure that you understand it well. Don't use a method just because someone told you to do so (for example, on Stack Exchange) or because everyone in your field is using it; think critically and make sure that you don't just run some software and get a magical p-value or something like that. You should also briefly explain this method in your report, cite relevant references, and explain why you used it.
 - **How can we share our code and data with you?**
-You can share code and data by setting up a Github repository and including a link in your report. You will get extra points if the repository is well documented and might help other people in their analyses! 
+You can share code and data by setting up a GitHub repository and including a link in your report. You will get extra points if the repository is well documented, and it might help other people in their analyses! 
 - **Can I use a proprietary dataset I cannot share?**
-That's OK if it answers your question well but you won't qualify to get extra points for open science practices. I often run the code of projects myself and I cannot do that if you can't share the dataset.
+That's OK if it answers your question well, but you won't qualify to get extra points for open science practices. I often run the code of projects myself, and I cannot do that if you can't share the dataset.
 - **Do I have to use social media data or other Internet-related data?**
 No, but your data has to be relevant to a question about Computational Modelling of Social Systems.
