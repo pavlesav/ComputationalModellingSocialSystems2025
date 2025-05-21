@@ -34,7 +34,7 @@ For both options, your group should:
 
 - Every student has to attend **the poster presentation session**; each student should be able to present their poster and can engage in the other posters as audience. 
 
-- You can get guidance for your projects in one session: **28.05.2025 15:00 to 18:00**. There are no lectures from 11.06.2025. 
+- You can get guidance for your projects in one session: **28.05.2025** from **15:00 to 18:00**. There are no lectures from 11.06.2025. 
 
 - Apart from the poster presentation, and after getting feedback, each group submits a max. 10-page research report. The deadline to submit your report is **July 9th** (end of day). You can submit over Teach Center.
 
