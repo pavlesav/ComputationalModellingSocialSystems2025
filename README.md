@@ -18,19 +18,20 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 2. [**Modeling segregation: Schelling's model-Jaramillo Mejia, Ana Maria**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week2.pptx) (12.03.2025)
 - [**Tutorial 1: ABM in Python, introduction to Mesa library (session 1)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
-3. [**Modeling cultures** - Martin-Gutierrez, Samuel]() [[Slides]]() (19.03.2025)
+3. [**Modeling cultures** - Martin-Gutierrez, Samuel]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week3.pdf) (19.03.2025)
 - [**Tutorial 2: ABM in Python, introduction to Mesa library (session 2)**](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/Mesa_tutorial/mesa_intro_tutorial.ipynb)
 
-4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (26.03.2025)
+4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week4.pdf)  (26.03.2025)
 - [**Tutorial 3: Let's build an example model together**]()
 
-5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (02.04.2025)
+5. [**Opinion dynamics, complex contagion**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week5.pdf)  (02.04.2025)
 
-6. [**Information spreading dynamics** - online lecture by Jana Lasser <a href="[https://tugraz.webex.com/tugraz/j.php?MTID=m3a014a35fbfbac7846fee0ea252a47a0]">Link</a>]() [[Slides]]()  (09.04.2025) 
+6. [**Information spreading dynamics** - online lecture by Jana Lasser]() [[Slides]]()  (09.04.2025) 
+- [**Exercise Feedback/Guidance session 1**]()
 
 7. TBD (30.04.2025) 
 
-8. [**Basic network models** - Jaramillo Mejia, Ana Maria]() [[Slides]]()  (07.05.2025)
+8. [**Basic network models** - Jaramillo Mejia, Ana Maria]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/Week%208%20-%20Basic%20network%20models.pdf)<a href="https://tugraz.webex.com/tugraz/ldr.php?RCID=0dc79bb72ba7f49f642018b1113a3962"> - Meeting recording - Password: PsQh8PME</a>   (06.05.2025)
 
 9. [**Modelling small worlds and scale-free networks(combined lecture)**]() [[Slides1]]() [[Slides2]]() (14.05.2025)  
 
