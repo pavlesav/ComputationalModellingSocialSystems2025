@@ -30,9 +30,9 @@ For both options, your group should:
 
 - You can get guidance for your projects in one session: **28.05.2025** from **15:00 to 18:00**. There are no lectures from 11.06.2025. 
 
-- Submits a max. 10-page research report. The deadline to submit your report is **July 9th** (end of day). You can submit over Teach Center and a jupyter notebook with the code used during the project.
+- Submit a maximum 10-page research report and a Jupyter notebook with the code used during the project. The deadline to submit your report is July 9th (end of day). You can submit it to the Teach Center.
 
-- Reports must be in PDF, following the scientific paper format: Introduction, Methodology, Results, Discussion, Limitations, and Conclusions. **Do not submit Python code or notebooks.**
+-Reports must be in PDF format and follow the scientific paper format: Introduction, Methodology, Results, Discussion, Limitations, and Conclusions.
 
 
 ## Further clarifications
@@ -49,7 +49,7 @@ Below is the timeline of the project deadlines. The deadlines are up to the end 
 The steps to do the course project are the following:
 
 #### 1. Form a group and choose a topic
-Get in touch with fellow students over the course discord server or around lectures to form a group. Choose one of the above options and if you want a new topic you can get inspiration from the course and lecture materials. 
+Form a group by contacting fellow students over the course Discord server or during lectures. Choose one of the above options, and if you want a new topic, you can get inspiration from the course and lecture materials. 
 
 #### 2. Project groups registration
 In June (02.06), your group has to register for the project on TC group assignment.
