@@ -26,7 +26,7 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 
 5. [**Opinion dynamics, complex contagion**]() [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week5.pdf)  (02.04.2025)
 
-6. [**Information spreading dynamics** - online lecture by Jana Lasser]() [[Slides]]()  (09.04.2025) 
+6. [**Information spreading dynamics** - online lecture by Jana Lasser]() [[Slides]](https://janalasser.at/lectures/modelling_disease_spreading_dynamics_and_LLMs_for_social_simulation/)  (09.04.2025) 
 - [**Exercise Feedback/Guidance session 1**]()
 
 7. TBD (30.04.2025) 
