@@ -33,7 +33,7 @@ Apart from the lectures, in the first 3-4 weeks you have tutorial sessions with 
 
 8. [**Modelling small worlds and scale-free networks(combined lecture)**]() [[Slides1]]() [[Slides2]]() (14.05.2025)  
 
-9. [**Project guidance - 30 minutes** - Jaramillo Mejia, Ana Maria]() [[Project guidance slides]]()  (28.05.2025)
+9. [**Project guidance - 30 minutes** - Jaramillo Mejia, Ana Maria]() [[Project guidance slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/tree/main/Final_project)  (28.05.2025)
 
 10. [**Epidemics and Cascades** - Matthias Raddant]()  [[Slides]](https://github.com/pavlesav/ComputationalModellingSocialSystems2025/blob/main/slides/week10.pdf)  (04.06.2025)
 
